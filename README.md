@@ -1,6 +1,9 @@
 🎓 Estudante de Tecnologia na FATEC
+
 💻 Desenvolvedor em formação, com foco em desenvolvimento de software e aplicações web
+
 🚀 Desenvolvendo projetos para aprimorar minhas habilidades em programação e tecnologia
+
 📚 Em constante aprendizado, buscando transformar conhecimentos em soluções práticas
 
 <!--
